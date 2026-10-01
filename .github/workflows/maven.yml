@@ -23,5 +23,5 @@ with:
 java-version: '17'
 distribution: 'corretto'
 cache: maven
-- name: Ejecutar tests
+-name: Ejecutar tests
 run: mvn test
